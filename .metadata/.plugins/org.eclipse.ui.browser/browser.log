@@ -1,0 +1,5 @@
+
+11월 23, 2023 10:27:29.266 NEW SESSION
+11월 23, 2023 10:27:29.266 [8076:6908:1123/102729.254:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 23, 2023 10:28:05.666 [8076:6908:1123/102805.666:ERROR:sharing_service.cc(250)] Device un-registration failed with fatal error
+11월 23, 2023 10:28:06.582 [8076:6908:1123/102806.582:ERROR:device_event_log_impl.cc(192)] [10:28:06.583] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
